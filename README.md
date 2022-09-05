@@ -1,10 +1,10 @@
 Este repositorio se compone de 4 carpetas las cuales se detallan a continuación:
 
 Numpy:
-Introducción.
-Indexación.
-Operaciones estadísticas y matemáticas.
-Conjuntos, distribuciones aleatorias.
+- Introducción.
+- Indexación.
+- Operaciones estadísticas y matemáticas.
+- Conjuntos, distribuciones aleatorias.
 
 
 Pandas: 
