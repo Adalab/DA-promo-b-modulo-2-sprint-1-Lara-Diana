@@ -8,21 +8,21 @@ Numpy:
 
 
 Pandas: 
-Dataframes y series.
-Carga y guardado de datos.
-Métodos de pandas.
-Filtrado de datos.
-Unión de datos.
-Groupby.
-Apply
+- Dataframes y series.
+- Carga y guardado de datos.
+- Métodos de pandas.
+- Filtrado de datos.
+- Unión de datos.
+- Groupby.
+- Apply
 
 Visualización:
-Matplotlib.
-Personalizaciones de Matplotlib.
-Seaborn.
+- Matplotlib.
+- Personalizaciones de Matplotlib.
+- Seaborn.
 
 Estadística:
-Introducción.
-Cuartiles, estadística con pandas y tabla de frecuencias.
-Tablas de correlación, contingenica, sesgos e intervalos de confianza.
+- Introducción.
+- Cuartiles, estadística con pandas y tabla de frecuencias.
+- Tablas de correlación, contingenica, sesgos e intervalos de confianza.
 
